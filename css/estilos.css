@@ -1,0 +1,466 @@
+* {
+	box-sizing: border-box;
+}
+body{
+	background: black url(../img/207647DOS.jpg);
+}
+
+#contenedor{
+	width: 1500px;
+	margin: auto;
+}
+
+#encabezado{
+
+	background-color: #3E3B3A;
+	
+	
+}
+#encabezado img{
+	width: 90px;
+	height: auto;
+}
+
+#logo{
+	height: 80px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#img{
+	text-align: center;
+	margin-top: 50px;
+
+}
+
+#barra{
+	background-color: #3E3B3A;
+    margin-top: 50px;
+	text-align: center;
+	padding: 30px;
+}
+
+#barra a{
+	color: white;
+	text-decoration: none;
+	letter-spacing: 1px;
+	margin: 20px;
+	
+}
+.segunda{
+	float: right;
+}
+#izquierda {
+	float: left;
+}
+#derecha {
+	float: right;
+}
+
+#primero{
+	top: 50px;
+	position: absolute;
+	left: 20px;
+}
+#segundo{
+	top: 50px;
+	position: absolute;
+	right: 20px;
+}
+#principal{
+	position: relative;
+  
+}
+#protaginistas{
+	text-align: center;
+}
+#imagen{
+    padding-top: 50px;
+	
+	width: 960px;
+	margin: auto;
+	text-align: center;
+}
+#imagen p{
+	margin-top: 80px;
+	margin-bottom: 40px;
+	color: white;
+
+}
+#frame{
+	text-align: center;
+	width: 1500px;
+}
+.redes{
+	width: 50px;
+	position: fixed;
+	bottom: 88%;
+	right: 18px;
+}
+.redes2{
+	width: 50px;
+	position: fixed;
+	bottom: 85%;
+	right: 18px;
+}
+#footer{
+	background-color:  #3E3B3A;
+	padding: 30px 30px;
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#barra a:hover {
+	color: black;
+	background-color: white;
+	
+}
+hr {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#P1 {
+
+	font-size: 18px;
+	background-color: rgba(0, 0, 0, .09);
+	padding: 30px 20px;
+}
+/*index2*/
+
+
+#principal2{
+	font-size: 18px;
+	margin: auto;
+}
+
+/*protagonista 1*/
+#protagonista1{
+	width: 1000px;
+	background-color: rgba(0, 0, 0, .09);
+	padding: 10px 10px;
+	margin-left: 20px;
+	margin-top: 20px;
+	padding-bottom: 50px;
+}
+#protagonista1 img{
+	float: left;
+	width: 200px;
+    padding: 15px;    
+}
+
+#protagonista1 h1{
+	padding-top: 20px;
+	color: darkgreen;	
+}
+
+/*protagonista2*/
+#protagonista2{
+	margin-left: 30%;
+	width: 1000px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-bottom: 50px;
+	background-color: rgba(0, 0, 0, .09);
+	
+}
+#protagonista2 img{
+    float: right;
+	width: 200px;
+    padding: 20px;    
+}
+
+#protagonista2 h1{
+
+	text-align: right;
+	padding-top: 70px;
+	color: darkgreen;
+}
+#protagonista2 p{
+	text-align: right;
+}
+
+/*protagonista3*/
+
+#protagonista3{
+	width: 1000px;
+	padding-bottom: 50px;
+	background-color: rgba(0, 0, 0, .09);
+	margin-left: 20px;	
+	padding-right: 20px;
+
+	
+}
+#protagonista3 img{
+	float: left;
+	width: 260px;
+    padding: 20px;    
+}
+#protagonista3 h1{
+	color: darkgreen;
+	padding-top: 40px;
+}
+
+/*protagonista4*/
+#protagonista4{
+	margin-top: 20px;
+	margin-left: 30%;
+	width: 1000px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	background-color: rgba(0, 0, 0, .09);
+	
+}
+#protagonista4 img{
+	float: right;
+	width: 260px;
+    padding: 20px;    
+}
+#protagonista4 p{
+	text-align: right;
+}
+#protagonista4 h1{
+	padding-top: 50px;
+	text-align: right;
+	color: darkgreen;
+}
+
+/*protagonista5*/
+#protagonista5{
+	width: 1000px;
+	padding-bottom: 50px;
+	background-color: rgba(0, 0, 0, .09);
+	margin-left: 20px;	
+	padding-right: 20px;
+		
+	
+}
+#protagonista5 img{
+	float: left;
+	width: 260px;
+    padding: 20px;    
+}
+
+#protagonista5 h1{
+	padding-top: 50px;
+	color: darkgreen;
+
+}
+/*protagonista6*/
+#protagonista6{
+	margin-top: 20px;
+	margin-left: 30%;
+	width: 1000px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	background-color: rgba(0, 0, 0, .09);
+	
+	
+}
+#protagonista6 img{
+	float: right;
+	width: 220px;
+    padding: 20px;    
+}
+
+#protagonista6 h1{
+	padding-top: 90px;
+	text-align: right;
+	color: darkgreen;
+}
+#protagonista6 p{
+	text-align: right;
+}
+/*protagonista7*/
+#protagonista7{
+	width: 1000px;
+	padding-bottom: 50px;
+	background-color: rgba(0, 0, 0, .09);
+	margin-left: 20px;	
+	padding-right: 20px;
+	
+		
+	
+}
+#protagonista7 img{
+	float: left;
+	width: 190px;
+    padding: 20px;    
+}
+
+#protagonista7 h1{
+	padding-top: 100px;
+	color: darkgreen;
+
+}
+/*protagonista8*/
+#protagonista8{
+	margin-top: 20px;
+	margin-left: 30%;
+	width: 1000px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	background-color: rgba(0, 0, 0, .09);
+	
+		
+	
+}
+#protagonista8 img{
+	float: right;
+	width: 220px;
+    padding: 20px;
+
+}
+
+#protagonista8 h1{
+	padding-top: 100px;
+	text-align: right;
+	color: darkgreen;
+}
+#protagonista8 p{
+	text-align: right;
+}
+/*INDEX3*/
+#principal3 {
+	margin-top: 20px;
+	
+}
+
+
+
+.bandera{
+	display: inline-block;
+	width: 500px;
+	text-align: center;
+	padding: 20px;
+}
+.bandera img{
+    margin-top: 20px ;
+	width: 200px;
+	height: 150px;
+}
+.bandera h1{
+	color: 	white;
+	font-size: 80px;
+}
+
+.bandera p{
+	color: 	white;
+	background-color: rgba(0, 0, 0, .09);
+    font-size: 18px;
+    padding: 20px;
+    text-align: justify;
+}
+#color2{
+	color: 	red;
+}
+#color3{
+	color: #06F614;
+}
+
+
+
+
+/*INDEX4*/
+/*Premio1*/
+#premio1{
+    width: 1000px;
+	background-color: rgba(0, 0, 0, .09);
+	padding-bottom: 50px;
+	margin-left: 20px;
+	margin-top: 20px;
+	}
+#premio1 img{
+float: left;
+	width: 180px;
+    padding: 15px; 
+}
+#premio1 h1{
+	padding-top: 70px;
+}
+
+/*premio2*/
+#premio2{
+	margin-top: 20px;
+	margin-left: 30%;
+	width: 1000px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	background-color: rgba(0, 0, 0, .09);
+}
+#premio2 img{
+	float: right;
+	width: 200px;
+    padding: 15px; 
+}
+#premio2 h1{
+	padding-top: 60px;
+text-align: right;
+}
+#premio2 p{
+text-align: right;
+}
+/*PREMIO3*/
+#premio3{
+	margin-top: 20px;
+	width: 1000px;
+	padding-bottom: 80px;
+	padding-left: 20px;
+	background-color: rgba(0, 0, 0, .09);
+
+}
+
+#premio3 img{
+float: left;
+	width: 170px;
+    padding: 15px; 
+}
+#premio3 h1{
+	padding-top: 70px;
+}
+/*PREMIO4*/
+#premio4{
+	margin-top: 20px;
+	margin-left: 30%;
+	width: 1000px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	background-color: rgba(0, 0, 0, .09);
+}
+#premio4 img{
+	float: right;
+	width: 400px;
+    padding: 15px; 
+}
+#premio4 h1{
+	padding-top: 60px;
+text-align: right;
+}
+#premio4 p{
+text-align: right;
+}
+/*PREMIO5*/
+#premio5{
+	margin-top: 20px;
+	width: 1000px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	background-color: rgba(0, 0, 0, .09);
+}
+#premio5 img{
+	float: left;
+	width: 400px;
+    padding: 15px; 
+}
+#premio5 h1{
+	padding-top: 70px;
+}
+/*index5*/
+#historia{
+	margin-top: 40px;
+}
+
+
+
+
+
